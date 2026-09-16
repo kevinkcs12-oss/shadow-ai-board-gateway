@@ -13,3 +13,5 @@ This first safe layer is provider-agnostic: it generates the canonical board pro
 
 ## Safety / deployment
 No API keys in source. No paid calls. No production replacement until preview validation and compatibility audit against the historical gateway.
+
+Preview secret-aware validation trigger: 2026-09-16.
